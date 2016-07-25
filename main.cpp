@@ -1,4 +1,4 @@
-//pring the running sum of the previous digits, starting from left
+//print the running sum of the previous digits, starting from left
 #include <iostream>
 using namespace std;
 
